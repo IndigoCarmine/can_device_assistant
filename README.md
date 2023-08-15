@@ -1,7 +1,9 @@
 # can_device_assistant
 
+incomplete
+
 It is a flutter application that can be used to control the CAN bus of my circuit board. It can set PID parameters and send Target value.
-My board use the following CAN formt.
+My boards use the following CAN formt.
 
 Base ID: any (is a maltiple of 0x10)
 
